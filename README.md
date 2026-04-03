@@ -1,37 +1,38 @@
 # Hi, I'm Zinhle Elizabeth Hlongwane! 💫
 
-I'm an aspiring **AI Engineer** based in Johannesburg, South Africa — passionate about building intelligent systems that solve real-world problems using data, machine learning, and creativity.
+I'm an aspiring **Java Developer** based in Johannesburg, South Africa — currently building a strong foundation in software engineering and backend development through hands-on experience and structured learning.
 
-**Exciting Update:** 🎓 Accepted to WeThinkCode_'s Software Engineering program (Starting September 2025)
+**Current Status:** 🎓 6 months into the WeThinkCode_ Software Engineering program
 
 ---
 
 ## 👩🏽‍💻 What I'm Working On
 
-To prepare for my tech career, I'm currently:
+To grow into a professional developer, I'm currently:
 
-- 🎓 Beginning my journey at **WeThinkCode_** this September (Software Engineering)
-- 🧠 Learning with the **SheCodes Foundation**, gaining hands-on coding experience
-- 🤖 Completing the **IBM Generative AI Engineering Professional Certificate** *(In Progress)*
+- 🎓 Studying at **WeThinkCode_** (Software Engineering Programme)
+- ☕ Deepening my **Java skills**, focusing on OOP, problem-solving, and writing clean, maintainable code
+- 🧠 Continuing with the **SheCodes Foundation**, gaining practical web development experience
 - 📊 Studying data analysis through the **Google Data Analytics Certificate** *(In Progress)*
-- 🐍 Strengthening my **Python** skills through Harvard's CS50P course
+- 🐍 Strengthening my **Python** skills through Harvard's CS50P course *(building strong fundamentals)*
 
 ---
 
 ## 🔧 Tech & Tools
 
-- **Languages**: Python, JavaScript, SQL, HTML/CSS  
-- **AI/ML**: Pandas, NLP, Generative AI  
+- **Languages**: Java, Python, JavaScript, SQL, HTML/CSS  
+- **Core Concepts**: Object-Oriented Programming (OOP), Data Structures, Problem Solving  
 - **Tools**: Git, GitHub, VS Code, APIs  
 
 ---
 
 ## 🏆 Recent Achievements
-- ✅ Completing Harvard's CS50P with projects in:  
+
+- 🎉 Progressing through the **WeThinkCode_ Software Engineering Programme** (6 months completed)  
+- ✅ Completed Harvard's CS50P with projects in:  
   - Data validation (`plates.py`)  
   - Algorithm design (`twttr.py`)  
   - System logic (`bank.py`, `fuel.py`)  
-- 🎉 Gained admission to WeThinkCode_'s competitive program  
 
 [![CS50P](https://img.shields.io/badge/CS50P-Python_Programming-003366?logo=python)](https://cs50.harvard.edu/python/)
 
@@ -39,24 +40,28 @@ To prepare for my tech career, I'm currently:
 
 ## 📁 Featured Projects  
 
-- [🌦 Girly Weather App](https://github.com/ZinhleH-thanos/girly-weather-app):  
-  A fun and visually engaging weather app using live API data, JavaScript, and animations. Built during my SheCodes workshop.
+- 🌦 **Girly Weather App**  
+  A fun and visually engaging weather app using live API data, JavaScript, and animations.
 
-- [📊 Study Hours vs Final Grade](https://github.com/ZinhleH-thanos/study-hours-vs-final-grade):  
+- 📊 **Study Hours vs Final Grade**  
   A data project using Excel and SQL to analyze how study hours impact student performance.
 
-- [🌸 Kawaii Affirmation Generator](https://github.com/ZinhleH-thanos/affirmation-generator):  
-  A motivational Python program that delivers kawaii-style affirmations — built to combine creativity and code during my AI learning journey.
+- 🌸 **Kawaii Affirmation Generator**  
+  A Python program that delivers motivational affirmations — combining creativity and logic.
 
-- [💻 Web Development Portfolio](https://github.com/ZinhleH-thanos/Web-Development-Portfolio):  
-  A showcase of my early HTML, CSS, and JavaScript projects.
+- 💻 **Web Development Portfolio**  
+  A showcase of HTML, CSS, and JavaScript projects.
 
-*(CS50P projects like `plates.py` and `bank.py` available here on GitHub)*   
+*(Currently building Java-based projects to showcase backend and OOP skills 🚀)*
 
 ---
 
 ## 🌍 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/zinhle-hlongwane-872354209)  
-*Open to connecting with fellow learners and tech mentors!*
 
-> *"From Python basics to AI engineering — growing one line of code at a time."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/zinhle-hlongwane-872354209)
+
+*Open to connecting with fellow developers, learners, and mentors!*
+
+---
+
+> *"Becoming a Java developer — one line of code at a time."*
