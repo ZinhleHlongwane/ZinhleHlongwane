@@ -1,6 +1,6 @@
 # Hi, I'm Zinhle Elizabeth Hlongwane! 💫
 
-I'm a **Software Developer in training** based in Johannesburg, South Africa, currently studying Software Engineering at **WeThinkCode_**.
+I'm a **Junior Software Engineer** based in Johannesburg, South Africa, currently studying Software Engineering at **WeThinkCode_**.
 
 I enjoy building practical software, solving problems through code, and learning how different parts of a system work together — from backend logic and databases to APIs, testing, deployment, and user-facing applications.
 
