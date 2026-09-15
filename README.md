@@ -14,16 +14,16 @@ I enjoy building practical software, solving problems through code, and learning
 I'm continuously developing my software engineering skills through hands-on projects, collaborative development, and structured learning.
 
 * 🎓 Studying **Software Engineering at WeThinkCode_**
-* 💻 Building software using **Java, Python, JavaScript, SQL, and React**
-* ☕ Developing strong **Java and Object-Oriented Programming** skills
-* 🔗 Working with **REST APIs, system integration, and distributed systems**
-* 🗄️ Learning and applying **SQL, databases, JDBC, and data persistence**
-* 🧪 Practising **Test-Driven Development (TDD), unit testing, and software quality**
+* 💻 Building applications using **Java, Python, JavaScript, SQL, and React**
+* 🌐 Developing full-stack applications with **React, Node.js, Express, and PostgreSQL**
+* ☕ Strengthening my **Java and Object-Oriented Programming** skills
+* 🔗 Working with **REST APIs, system integration, and client-server systems**
+* 🗄️ Applying **SQL, database design, and data persistence**
+* 🧪 Practising **Test-Driven Development, unit testing, and integration testing**
 * 🐳 Working with **Docker and containerised applications**
 * ⚙️ Learning **CI/CD and GitLab pipelines**
-* 📱 Exploring **mobile application development with React Native / Expo**
-* 🌐 Building web applications using **React, Vite, HTML, CSS, and JavaScript**
-* 🔧 Strengthening my understanding of **software architecture, clean code, refactoring, and maintainability**
+* 📱 Exploring mobile application development with **React Native and Expo**
+* 🤖 Applying **generative AI to software-engineering workflows**
 
 ---
 
@@ -35,77 +35,133 @@ I'm continuously developing my software engineering skills through hands-on proj
 * 🐍 Python
 * 🟨 JavaScript
 * 🗄️ SQL
-* 🌐 HTML
-* 🎨 CSS
+* 🌐 HTML5
+* 🎨 CSS3
 
 ### Frameworks & Technologies
 
 * Spring Boot
+* Spring Data JPA
 * React
+* React Router
 * React Native / Expo
+* Node.js
+* Express
 * Vite
 * JDBC
 * REST APIs
+* JWT Authentication
+
+### Databases
+
+* PostgreSQL
+* SQLite
+* H2 Database
+* Database design
+* Data persistence
+* Object-relational mapping
 
 ### Software Engineering
 
-* Object-Oriented Programming (OOP)
-* Data Structures & Algorithms
-* Test-Driven Development (TDD)
-* Unit Testing
-* Refactoring
-* Clean Code
-* Software Architecture
-* Systems Integration
-* Distributed Systems
-* Error Handling
-* Persistence & Databases
+* Object-Oriented Programming
+* Data Structures and Algorithms
+* Test-Driven Development
+* Unit and integration testing
+* Refactoring and clean code
+* Software architecture
+* Design patterns
+* Systems integration
+* Client-server systems
+* Distributed systems
+* Error handling and debugging
 
 ### Tools
 
-* Git & GitLab
-* GitHub
+* Git and GitHub
+* GitLab
 * IntelliJ IDEA
 * VS Code
 * Maven
 * Docker
 * GitLab CI/CD
-* SQLite
+* JUnit 5
+* Mockito
 
 ---
 
 ## 🚀 Projects & Experience
 
-### 🤖 Robot Worlds — Java
+### 🚁 Fleet Command — Full-Stack Development
 
-A collaborative software engineering project focused on building and improving a client-server robot simulation system.
+A full-stack drone fleet management application that I designed and developed independently using the PERN stack.
 
-Through this project, I've worked with:
+Through this project, I worked with:
 
-* Java OOP and software architecture
-* Client-server communication
-* REST APIs
-* Command handling
-* World and robot management
-* SQLite persistence
-* Configuration management
-* Error handling
+* PostgreSQL database design
+* Express and Node.js
+* React, Vite, and React Router
+* REST API development
+* JWT authentication
+* bcrypt password hashing
+* Role-based protected routes
+* Drone and mission management
+* Telemetry logging
+* Raw SQL queries using the `pg` library
+* Docker Compose
+
+🔗 [View Fleet Command on GitHub](https://github.com/ZinhleHlongwane/fleet-command)
+
+---
+
+### ☁️ Cloud Fleet Microservices — Java
+
+A microservices-based fleet management application with RESTful endpoints for managing drone data.
+
+Through this project, I worked with:
+
+* Java
+* Spring Boot
+* Spring Data JPA
+* REST API development
+* H2 Database
+* Object-relational mapping
+* Jakarta Validation
+* Data persistence
+* Maven
+* Git and GitHub
+
+🔗 [View Cloud Fleet Microservices on GitHub](https://github.com/ZinhleHlongwane/cloud-fleet-microservices)
+
+---
+
+### 🐾 Critter Keeper — Client-Server System
+
+A multiplayer client-server application that allows multiple clients to communicate with a Java socket server through a custom JSON protocol.
+
+Through this project, I worked with:
+
+* Java and Object-Oriented Programming
+* TCP/IP sockets
+* Concurrent client connections
+* Custom JSON communication
+* Command and factory design patterns
+* External JSON configuration
+* JUnit 5 and Mockito
 * Unit and integration testing
-* Refactoring existing code
-* Git collaboration and merge conflicts
-* Maven builds
-* Docker
-* GitLab CI/CD
+* Test-Driven Development
+* Maven
 
-This project has given me practical experience working with an existing codebase, understanding unfamiliar code, identifying refactoring opportunities, and collaborating with a development team.
+I wrote and maintained **103 unit and integration tests** covering system logic, protocol handling, configuration loading, and end-to-end request flows.
+
+🔗 [View Critter Keeper on GitHub](https://github.com/ZinhleHlongwane/Critter-keeper)
 
 ---
 
 ### 🌍 LightShed — Distributed Systems
 
-A systems integration project focused on building a distributed loadshedding information system.
+A systems integration project focused on building a distributed load-shedding information system.
 
-The project explored concepts including:
+The project explored:
 
 * Distributed services
 * Fault tolerance
@@ -117,7 +173,7 @@ The project explored concepts including:
 * Monitoring
 * Public alerts and notifications
 
-This project strengthened my understanding of how independent services communicate and how software systems can continue operating when individual components fail.
+This project strengthened my understanding of how independent services communicate and how systems can continue operating when individual components fail.
 
 ---
 
@@ -140,9 +196,9 @@ Technologies and concepts include:
 
 ### 📱 ShelfLife Mobile App
 
-A mobile application project focused on applying software development principles to a practical mobile experience.
+A mobile application project focused on applying software-development principles to a practical mobile experience.
 
-Worked with:
+Through this project, I worked with:
 
 * React Native
 * Expo
@@ -155,9 +211,9 @@ Worked with:
 
 ### ☕ Java Mini Systems
 
-A collection of Java projects designed to strengthen my understanding of:
+A collection of smaller Java projects created to strengthen my understanding of:
 
-* OOP
+* Object-Oriented Programming
 * Classes and objects
 * Encapsulation
 * Inheritance
@@ -165,65 +221,54 @@ A collection of Java projects designed to strengthen my understanding of:
 * Collections
 * Exception handling
 * File handling
-* Problem solving
-* Test-driven development
+* Problem-solving
+* Test-Driven Development
 
 ---
 
-## 🧪 Software Engineering & Testing
+## 👩🏽‍🏫 Volunteer Experience
 
-I'm particularly interested in understanding **how to build software that is reliable, maintainable, and testable**, rather than simply making code work.
+### Peer Tutor — WeThinkCode_
 
-I've gained practical experience with:
+As a volunteer peer tutor, I:
 
-* Unit testing
-* TDD
-* Test suites
+* Help fellow students understand Java, Python, SQL, and software-development principles
+* Support peers with debugging and root-cause analysis
+* Explain technical concepts and problem-solving approaches
+* Review work and provide structured, constructive feedback
+* Contribute to a collaborative learning environment
+
+---
+
+## 🤖 Generative AI for Software Engineering
+
+I have completed the **WeThinkCode_ GenAI Course for Software Engineers**.
+
+The course covered using generative AI for:
+
+* Prompt engineering
+* Understanding existing codebases
+* Learning new programming languages, frameworks, libraries, and APIs
+* Software testing
 * Debugging
-* Refactoring
-* Code reviews
-* Regression testing
-* Integration testing
-* Handling edge cases
-* Writing maintainable code
-
----
-
-## 🔄 Systems Integration
-
-As part of my Systems Integration work, I've explored how different software components communicate and work together.
-
-Areas I've worked with include:
-
-* REST APIs
-* JSON
-* Distributed services
-* Message queues
-* Service-to-service communication
-* Fault tolerance
-* Error handling
-* Monitoring
-* Data consistency
-
-I'm particularly interested in understanding the bigger picture of how individual services become a complete software system.
+* Documentation
+* Code refactoring and enhancement
+* Responsible use of AI in software-development workflows
 
 ---
 
 ## 📚 Certifications & Learning
 
-I'm continuously expanding my technical knowledge through formal programmes, certifications, and hands-on development.
-
-### Completed / Current Learning
-
 * 🎓 **WeThinkCode_ — Software Engineering Programme**
+* 🤖 **GenAI Course for Software Engineers — WeThinkCode_**
+* ☁️ **Artificial Intelligence on Microsoft Azure (AI-900) — Microsoft**
+* 🌐 **Building Scalable Java Microservices with Spring Boot and Spring Cloud — Google Cloud**
+* 🌐 **Spring Boot Microservices — Coursera (Google Cloud)**
+* ☕ **Java Intermediate Certificate — SoloLearn**
+* 🗄️ **Intermediate PostgreSQL — University of Michigan**
+* 🗄️ **Database Design and Basic SQL — Coursera (University of Michigan)**
 * 🐍 **Harvard CS50P — Introduction to Programming with Python**
-* ☕ **Java Intermediate — SoloLearn**
-* 🌐 **Spring Boot & Microservices**
-* 🗄️ **Database Design & Basic SQL**
 * 📊 **Google Data Analytics Certificate**
-* ☁️ **Microsoft Azure / AI learning**
-
-I'm also continuing to build my knowledge in **Java, Spring Boot, SQL, cloud technologies, software architecture, and backend development**.
 
 ---
 
@@ -235,23 +280,17 @@ Areas I'm particularly interested in include:
 
 * 💻 Software Development
 * ⚙️ Backend Development
+* 🌐 Full-Stack and Web Applications
 * 🔗 Systems Integration
-* 🌐 Web Applications
 * 🗄️ Databases
 * ☁️ Cloud Technologies
-* 🧪 Software Testing & Quality
+* 🧪 Software Testing and Quality
 * 🏗️ Software Architecture
 * 🚀 Scalable and maintainable systems
 
----
+My goal is to become a well-rounded developer who understands the complete software-development process:
 
-## 🌱 Currently Growing
-
-My current goal is to become a **well-rounded Software Developer** who can understand more than just one part of an application.
-
-I'm working towards being comfortable with the full development process:
-
-**Understanding a problem → Designing a solution → Writing code → Testing → Refactoring → Integrating services → Building → Deploying → Maintaining**
+**Understanding a problem → Designing a solution → Writing code → Testing → Refactoring → Integrating → Deploying → Maintaining**
 
 ---
 
@@ -259,7 +298,7 @@ I'm working towards being comfortable with the full development process:
 
 I'm always open to connecting with developers, engineers, recruiters, mentors, and other people passionate about technology.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/zinhle-hlongwane-872354209)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/zinhle-hlongwane-872354209/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ZinhleHlongwane-black?logo=github)](https://github.com/ZinhleHlongwane)
 
