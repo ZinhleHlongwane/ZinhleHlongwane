@@ -2,7 +2,7 @@
 
 I'm a **Junior Software Developer** based in Johannesburg, South Africa.
 
-I enjoy building practical software, solving problems through code, and understanding how different parts of a system work together — from APIs and databases to data pipelines, testing, deployment, and user-facing applications.
+I enjoy building practical software, solving problems through code, and understanding how different parts of a system work together, from APIs and databases to data pipelines, testing, deployment, and user-facing applications.
 
 My experience spans **Python, Java, JavaScript, backend development, full-stack applications, systems integration, databases, data engineering, testing, and cloud technologies**.
 
