@@ -1,14 +1,14 @@
-Hi, I'm Zinhle Elizabeth Hlongwane 👋🏽
+# Hi, I'm Zinhle Elizabeth Hlongwane 👋🏽
 
-I'm a Junior Software Developer based in Johannesburg, South Africa.
+I'm a **Junior Software Developer** based in Johannesburg, South Africa.
 
 I enjoy building practical software, solving problems through code, and understanding how different parts of a system work together — from APIs and databases to data pipelines, testing, deployment, and user-facing applications.
 
-My experience spans Python, Java, JavaScript, backend development, full-stack applications, systems integration, databases, data engineering, testing, and cloud technologies.
+My experience spans **Python, Java, JavaScript, backend development, full-stack applications, systems integration, databases, data engineering, testing, and cloud technologies**.
 
 ---
 
-👩🏽‍💻 About Me
+## 👩🏽‍💻 About Me
 
 I enjoy working across different areas of software development and building projects that help me understand how complete systems are designed, connected, tested, and deployed.
 
@@ -31,67 +31,67 @@ Some of the technologies and areas I work with include:
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Languages
+### Languages
 
-"Python" "Java" "JavaScript" "SQL" "HTML5" "CSS3"
+`Python` `Java` `JavaScript` `SQL` `HTML5` `CSS3`
 
-Backend
+### Backend
 
-"FastAPI" "Spring Boot" "Spring Data JPA" "Node.js" "Express" "JDBC" "REST APIs" "JWT"
+`FastAPI` `Spring Boot` `Spring Data JPA` `Node.js` `Express` `JDBC` `REST APIs` `JWT`
 
-Frontend
+### Frontend
 
-"React" "React Router" "Vite" "React Native" "Expo" "Streamlit"
+`React` `React Router` `Vite` `React Native` `Expo` `Streamlit`
 
-Data & Streaming
+### Data & Streaming
 
-"Apache Kafka" "Apache Spark" "Spark Structured Streaming" "ETL" "Data Pipelines" "Parquet"
+`Apache Kafka` `Apache Spark` `Spark Structured Streaming` `ETL` `Data Pipelines` `Parquet`
 
-Databases
+### Databases
 
-"PostgreSQL" "SQLite" "H2" "SQLAlchemy"
+`PostgreSQL` `SQLite` `H2` `SQLAlchemy`
 
-Cloud & Infrastructure
+### Cloud & Infrastructure
 
-"AWS" "Terraform" "Docker" "Docker Compose" "ECS/Fargate" "S3" "DynamoDB"
+`AWS` `Terraform` `Docker` `Docker Compose` `ECS/Fargate` `S3` `DynamoDB`
 
-Testing
+### Testing
 
-"Pytest" "JUnit 5" "Mockito" "Unit Testing" "Integration Testing" "TDD"
+`Pytest` `JUnit 5` `Mockito` `Unit Testing` `Integration Testing` `TDD`
 
-Tools
+### Tools
 
-"Git" "GitHub" "GitLab" "GitHub Actions" "IntelliJ IDEA" "VS Code" "Maven"
+`Git` `GitHub` `GitLab` `GitHub Actions` `IntelliJ IDEA` `VS Code` `Maven`
 
-Software Engineering
+### Software Engineering
 
-"Object-Oriented Programming"
-"Data Structures & Algorithms"
-"Software Architecture"
-"Design Patterns"
-"Systems Integration"
-"Client-Server Systems"
-"Distributed Systems"
-"Database Design"
-"Data Persistence"
-"Refactoring"
-"Debugging"
+`Object-Oriented Programming`  
+`Data Structures & Algorithms`  
+`Software Architecture`  
+`Design Patterns`  
+`Systems Integration`  
+`Client-Server Systems`  
+`Distributed Systems`  
+`Database Design`  
+`Data Persistence`  
+`Refactoring`  
+`Debugging`
 
 ---
 
-🚀 Featured Projects
+# 🚀 Featured Projects
 
-🧠 Affirmation Intelligence Platform
+## 🧠 Affirmation Intelligence Platform
 
-Python • Data Engineering • AI • Event-Driven Architecture
+**Python • Data Engineering • AI • Event-Driven Architecture**
 
 A Python-based platform that combines personalised AI affirmation generation with an event-driven data engineering pipeline.
 
 The platform processes affirmation-generation events through a complete flow from API ingestion to streaming, transformation, storage, and analytics.
 
-Built with
+### Built with
 
 - Python
 - FastAPI
@@ -107,7 +107,7 @@ Built with
 - GitHub Actions
 - Terraform
 
-Key features
+### Key features
 
 - AI-powered personalised affirmation generation
 - FastAPI REST endpoints
@@ -124,19 +124,19 @@ Key features
 - AWS-ready S3 and DynamoDB integrations
 - Terraform infrastructure for ECS/Fargate, ECR, CloudWatch, and IAM
 
-The project gave me hands-on experience connecting software development, AI, APIs, streaming systems, data engineering, testing, and infrastructure in one application.
+The project gave me hands-on experience connecting **software development, AI, APIs, streaming systems, data engineering, testing, and infrastructure** in one application.
 
-🔗 "View Affirmation Intelligence Platform" (https://github.com/ZinhleHlongwane/affirmation-generator)
+🔗 [View Affirmation Intelligence Platform](https://github.com/ZinhleHlongwane/affirmation-generator)
 
 ---
 
-🚁 Fleet Command
+## 🚁 Fleet Command
 
-Full-Stack Drone Fleet Management System
+**Full-Stack Drone Fleet Management System**
 
-A full-stack application for managing drones, missions, users, and telemetry using the PERN stack.
+A full-stack application for managing drones, missions, users, and telemetry using the **PERN stack**.
 
-Built with
+### Built with
 
 - PostgreSQL
 - Express
@@ -149,7 +149,7 @@ Built with
 - bcrypt
 - Docker Compose
 
-Key features
+### Key features
 
 - User authentication
 - Role-based protected routes
@@ -157,19 +157,19 @@ Key features
 - Mission management
 - Telemetry logging
 - PostgreSQL database design
-- Raw SQL queries using the "pg" library
+- Raw SQL queries using the `pg` library
 
-🔗 "View Fleet Command" (https://github.com/ZinhleHlongwane/fleet-command)
+🔗 [View Fleet Command](https://github.com/ZinhleHlongwane/fleet-command)
 
 ---
 
-☁️ Cloud Fleet Microservices
+## ☁️ Cloud Fleet Microservices
 
-Java • Spring Boot • Microservices
+**Java • Spring Boot • Microservices**
 
 A fleet-management system built around independent services and RESTful communication.
 
-Built with
+### Built with
 
 - Java
 - Spring Boot
@@ -179,7 +179,7 @@ Built with
 - Jakarta Validation
 - Maven
 
-Concepts explored
+### Concepts explored
 
 - Microservices
 - Data persistence
@@ -188,17 +188,17 @@ Concepts explored
 - Validation
 - Layered application design
 
-🔗 "View Cloud Fleet Microservices" (https://github.com/ZinhleHlongwane/cloud-fleet-microservices)
+🔗 [View Cloud Fleet Microservices](https://github.com/ZinhleHlongwane/cloud-fleet-microservices)
 
 ---
 
-🐾 Critter Keeper
+## 🐾 Critter Keeper
 
-Client-Server Application
+**Client-Server Application**
 
 A multiplayer client-server system that allows multiple clients to communicate with a Java socket server using a custom JSON protocol.
 
-Built with
+### Built with
 
 - Java
 - TCP/IP sockets
@@ -207,7 +207,7 @@ Built with
 - JUnit 5
 - Mockito
 
-Concepts explored
+### Concepts explored
 
 - Object-Oriented Programming
 - Concurrent client connections
@@ -219,15 +219,15 @@ Concepts explored
 - Test-Driven Development
 - Unit and integration testing
 
-The project includes 103 unit and integration tests covering application logic, protocol handling, configuration, and end-to-end request flows.
+The project includes **103 unit and integration tests** covering application logic, protocol handling, configuration, and end-to-end request flows.
 
-🔗 "View Critter Keeper" (https://github.com/ZinhleHlongwane/Critter-keeper)
+🔗 [View Critter Keeper](https://github.com/ZinhleHlongwane/Critter-keeper)
 
 ---
 
-🤖 Generative AI & Software Development
+# 🤖 Generative AI & Software Development
 
-I have completed the WeThinkCode_ GenAI Course for Software Engineers, covering practical ways to use generative AI throughout software development.
+I have completed the **WeThinkCode_ GenAI Course for Software Engineers**, covering practical ways to use generative AI throughout software development.
 
 Areas covered include:
 
@@ -243,21 +243,21 @@ Areas covered include:
 
 ---
 
-🎓 Certifications & Learning
+# 🎓 Certifications & Learning
 
-- 🤖 GenAI Course for Software Engineers — WeThinkCode_
-- ☁️ Artificial Intelligence on Microsoft Azure (AI-900) — Microsoft
-- 🌐 Building Scalable Java Microservices with Spring Boot and Spring Cloud — Google Cloud
-- 🌐 Spring Boot Microservices — Coursera / Google Cloud
-- ☕ Java Intermediate Certificate — SoloLearn
-- 🗄️ Intermediate PostgreSQL — University of Michigan
-- 🗄️ Database Design and Basic SQL — University of Michigan
-- 🐍 CS50P: Introduction to Programming with Python — Harvard
-- 📊 Google Data Analytics Certificate
+- 🤖 **GenAI Course for Software Engineers — WeThinkCode_**
+- ☁️ **Artificial Intelligence on Microsoft Azure (AI-900) — Microsoft**
+- 🌐 **Building Scalable Java Microservices with Spring Boot and Spring Cloud — Google Cloud**
+- 🌐 **Spring Boot Microservices — Coursera / Google Cloud**
+- ☕ **Java Intermediate Certificate — SoloLearn**
+- 🗄️ **Intermediate PostgreSQL — University of Michigan**
+- 🗄️ **Database Design and Basic SQL — University of Michigan**
+- 🐍 **CS50P: Introduction to Programming with Python — Harvard**
+- 📊 **Google Data Analytics Certificate**
 
 ---
 
-🧠 Areas I Enjoy
+# 🧠 Areas I Enjoy
 
 I enjoy working across different parts of the software-development process, including:
 
@@ -275,16 +275,16 @@ I enjoy working across different parts of the software-development process, incl
 
 I enjoy understanding the complete development lifecycle:
 
-Problem → Design → Code → Test → Integrate → Deploy → Maintain
+**Problem → Design → Code → Test → Integrate → Deploy → Maintain**
 
 ---
 
-🌍 Connect With Me
+# 🌍 Connect With Me
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Zinhle%20Hlongwane-blue?logo=linkedin)" (https://www.linkedin.com/in/zinhle-hlongwane-872354209/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zinhle%20Hlongwane-blue?logo=linkedin)](https://www.linkedin.com/in/zinhle-hlongwane-872354209/)
 
-""GitHub" (https://img.shields.io/badge/GitHub-ZinhleHlongwane-black?logo=github)" (https://github.com/ZinhleHlongwane)
+[![GitHub](https://img.shields.io/badge/GitHub-ZinhleHlongwane-black?logo=github)](https://github.com/ZinhleHlongwane)
 
 ---
 
-«Building software, solving problems, and learning something new with every project. 🚀»
+> *Building software, solving problems, and learning something new with every project.* 🚀
