@@ -1,290 +1,189 @@
-# Hi, I'm Zinhle Elizabeth Hlongwane 👋🏽
+<div align="center">
 
-I'm a **Junior Software Developer** based in Johannesburg, South Africa.
+# Hey, I'm Zinhle Hlongwane 👋🏽
 
-I enjoy building practical software, solving problems through code, and understanding how different parts of a system work together, from APIs and databases to data pipelines, testing, deployment, and user-facing applications.
+### Junior Software Engineer · Backend · Data · Full-Stack
 
-My experience spans **Python, Java, JavaScript, backend development, full-stack applications, systems integration, databases, data engineering, testing, and cloud technologies**.
+![Profile Views](https://komarev.com/ghpvc/?username=ZinhleHlongwane&label=PROFILE%20VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/ZinhleHlongwane?label=FOLLOWERS&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/ZinhleHlongwane?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat)
 
----
-
-## 👩🏽‍💻 About Me
-
-I enjoy working across different areas of software development and building projects that help me understand how complete systems are designed, connected, tested, and deployed.
-
-Some of the technologies and areas I work with include:
-
-- 🐍 Python
-- ☕ Java
-- 🟨 JavaScript
-- ⚛️ React and React Native
-- 🟢 Node.js and Express
-- ⚡ FastAPI
-- 🔗 REST APIs and system integration
-- 🗄️ SQL and relational databases
-- 📊 Data pipelines and data processing
-- 🧪 Testing and Test-Driven Development
-- 🐳 Docker and containerised applications
-- ⚙️ CI/CD pipelines
-- ☁️ Cloud and infrastructure concepts
-- 🤖 AI-assisted software development
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+```python
+class Zinhle:
+    location = "Johannesburg, South Africa"
+
+    building = [
+        "Cloud Fleet",
+        "Affirmation Intelligence Platform",
+        "Umdeni Health",
+        "ShelfLife"
+    ]
+
+    interested_in = [
+        "backend systems",
+        "data engineering",
+        "AI-powered applications",
+        "systems integration",
+        "full-stack development"
+    ]
+
+    philosophy = "Simple for the user. Thoughtful underneath."
+```
+
+I enjoy building practical software that goes beyond the happy path — systems that handle real data, real users, failure, integration and the messy parts that come with making software useful.
+
+---
+
+## Tech Stack
 
 ### Languages
 
-`Python` `Java` `JavaScript` `SQL` `HTML5` `CSS3`
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs" />
+</p>
 
-### Backend
+### Backend & APIs
 
-`FastAPI` `Spring Boot` `Spring Data JPA` `Node.js` `Express` `JDBC` `REST APIs` `JWT`
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express" />
+</p>
+
+`REST` · `JWT` · `Microservices` · `Event-driven systems`
 
 ### Frontend
 
-`React` `React Router` `Vite` `React Native` `Expo` `Streamlit`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
-### Data & Streaming
+`React Native` · `Expo` · `Vite`
 
-`Apache Kafka` `Apache Spark` `Spark Structured Streaming` `ETL` `Data Pipelines` `Parquet`
+### Databases & Data
 
-### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+</p>
 
-`PostgreSQL` `SQLite` `H2` `SQLAlchemy`
+`SQLAlchemy` · `Flyway` · `ETL` · `Bronze / Silver / Gold`
 
-### Cloud & Infrastructure
+### Streaming & Messaging
 
-`AWS` `Terraform` `Docker` `Docker Compose` `ECS/Fargate` `S3` `DynamoDB`
+`Apache Kafka` · `Spark Structured Streaming` · `ActiveMQ`
 
-### Testing
+### Cloud & DevOps
 
-`Pytest` `JUnit 5` `Mockito` `Unit Testing` `Integration Testing` `TDD`
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,terraform" />
+</p>
 
-### Tools
+### Observability
 
-`Git` `GitHub` `GitLab` `GitHub Actions` `IntelliJ IDEA` `VS Code` `Maven`
-
-### Software Engineering
-
-`Object-Oriented Programming`  
-`Data Structures & Algorithms`  
-`Software Architecture`  
-`Design Patterns`  
-`Systems Integration`  
-`Client-Server Systems`  
-`Distributed Systems`  
-`Database Design`  
-`Data Persistence`  
-`Refactoring`  
-`Debugging`
+`Prometheus` · `Grafana`
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 🧠 Affirmation Intelligence Platform
+### 🚁 [Cloud Fleet](https://github.com/ZinhleHlongwane/cloud-fleet-microservices)
 
-**Python • Data Engineering • AI • Event-Driven Architecture**
+> Event-driven drone fleet platform built from five Spring Boot microservices, with PostgreSQL, ActiveMQ, Prometheus and Grafana.
 
-A Python-based platform that combines personalised AI affirmation generation with an event-driven data engineering pipeline.
-
-The platform processes affirmation-generation events through a complete flow from API ingestion to streaming, transformation, storage, and analytics.
-
-### Built with
-
-- Python
-- FastAPI
-- Apache Kafka
-- Apache Spark
-- Spark Structured Streaming
-- SQLAlchemy
-- SQLite
-- Streamlit
-- Docker
-- Docker Compose
-- Pytest
-- GitHub Actions
-- Terraform
-
-### Key features
-
-- AI-powered personalised affirmation generation
-- FastAPI REST endpoints
-- Kafka-based event streaming
-- Spark Structured Streaming processing
-- Batch ETL workflows
-- Bronze, Silver, and Gold data layers
-- Data-quality validation
-- Operational data persistence
-- Streamlit analytics dashboard
-- Automated testing with Pytest
-- Continuous integration with GitHub Actions
-- Dockerised local environment
-- AWS-ready S3 and DynamoDB integrations
-- Terraform infrastructure for ECS/Fargate, ECR, CloudWatch, and IAM
-
-The project gave me hands-on experience connecting **software development, AI, APIs, streaming systems, data engineering, testing, and infrastructure** in one application.
-
-🔗 [View Affirmation Intelligence Platform](https://github.com/ZinhleHlongwane/affirmation-generator)
+`Java` `Spring Boot` `PostgreSQL` `ActiveMQ` `Docker` `Prometheus` `Grafana`
 
 ---
 
-## 🚁 Fleet Command
+### ✨ [Affirmation Intelligence Platform](https://github.com/ZinhleHlongwane/affirmation-generator)
 
-**Full-Stack Drone Fleet Management System**
+> A small affirmation generator that grew into a streaming data platform using Kafka, Spark, FastAPI and a Bronze / Silver / Gold data pipeline.
 
-A full-stack application for managing drones, missions, users, and telemetry using the **PERN stack**.
-
-### Built with
-
-- PostgreSQL
-- Express
-- Node.js
-- React
-- Vite
-- React Router
-- REST APIs
-- JWT authentication
-- bcrypt
-- Docker Compose
-
-### Key features
-
-- User authentication
-- Role-based protected routes
-- Drone management
-- Mission management
-- Telemetry logging
-- PostgreSQL database design
-- Raw SQL queries using the `pg` library
-
-🔗 [View Fleet Command](https://github.com/ZinhleHlongwane/fleet-command)
+`Python` `FastAPI` `Kafka` `Spark` `AWS` `Terraform` `Streamlit`
 
 ---
 
-## ☁️ Cloud Fleet Microservices
+### 🏥 [Umdeni Health](https://github.com/ZinhleHlongwane/umdeni-health-lite)
 
-**Java • Spring Boot • Microservices**
+> Privacy-first, offline-ready digital health platform designed to connect doctors, patients and trusted family members through AI-assisted care explanations.
 
-A fleet-management system built around independent services and RESTful communication.
-
-### Built with
-
-- Java
-- Spring Boot
-- Spring Data JPA
-- REST APIs
-- H2 Database
-- Jakarta Validation
-- Maven
-
-### Concepts explored
-
-- Microservices
-- Data persistence
-- Object-relational mapping
-- RESTful architecture
-- Validation
-- Layered application design
-
-🔗 [View Cloud Fleet Microservices](https://github.com/ZinhleHlongwane/cloud-fleet-microservices)
+`React Native` `Expo` `FastAPI` `Python` `Llama` `SQLite` `JWT`
 
 ---
 
-## 🐾 Critter Keeper
+### 🥬 [ShelfLife](https://github.com/ZinhleHlongwane/ShelfLife-WebApp)
 
-**Client-Server Application**
+> Cross-platform food-waste reduction platform for tracking groceries, expiry dates, recipes and shopping lists across web and mobile.
 
-A multiplayer client-server system that allows multiple clients to communicate with a Java socket server using a custom JSON protocol.
-
-### Built with
-
-- Java
-- TCP/IP sockets
-- JSON
-- Maven
-- JUnit 5
-- Mockito
-
-### Concepts explored
-
-- Object-Oriented Programming
-- Concurrent client connections
-- Client-server communication
-- Custom protocols
-- Command Pattern
-- Factory Pattern
-- External configuration
-- Test-Driven Development
-- Unit and integration testing
-
-The project includes **103 unit and integration tests** covering application logic, protocol handling, configuration, and end-to-end request flows.
-
-🔗 [View Critter Keeper](https://github.com/ZinhleHlongwane/Critter-keeper)
+`React` `React Native` `TypeScript` `Expo` `PostgreSQL`
 
 ---
 
-# 🤖 Generative AI & Software Development
+### 🐾 [Critter Keeper](https://github.com/ZinhleHlongwane/Critter-keeper)
 
-I have completed the **WeThinkCode_ GenAI Course for Software Engineers**, covering practical ways to use generative AI throughout software development.
+> Multi-client Java shelter simulation built with TCP sockets, shared state, commands, configurable behaviour and automated testing.
 
-Areas covered include:
-
-- Prompt engineering
-- Code comprehension
-- Learning unfamiliar frameworks and APIs
-- Test generation
-- Debugging
-- Documentation
-- Refactoring
-- Code enhancement
-- Responsible AI-assisted development
+`Java` `TCP Sockets` `Maven` `JUnit` `Mockito`
 
 ---
 
-# 🎓 Certifications & Learning
+### 🛰️ [Fleet Command](https://github.com/ZinhleHlongwane/fleet-command)
 
-- 🤖 **GenAI Course for Software Engineers — WeThinkCode_**
-- ☁️ **Artificial Intelligence on Microsoft Azure (AI-900) — Microsoft**
-- 🌐 **Building Scalable Java Microservices with Spring Boot and Spring Cloud — Google Cloud**
-- 🌐 **Spring Boot Microservices — Coursera / Google Cloud**
-- ☕ **Java Intermediate Certificate — SoloLearn**
-- 🗄️ **Intermediate PostgreSQL — University of Michigan**
-- 🗄️ **Database Design and Basic SQL — University of Michigan**
-- 🐍 **CS50P: Introduction to Programming with Python — Harvard**
-- 📊 **Google Data Analytics Certificate**
+> Full-stack drone fleet manager built with PostgreSQL, Express, React and Node, with JWT authentication and mission tracking.
+
+`PostgreSQL` `Express` `React` `Node.js` `JWT`
 
 ---
 
-# 🧠 Areas I Enjoy
+### 🚌 [TransitPulse](https://github.com/ZinhleHlongwane/TransitPulse)
 
-I enjoy working across different parts of the software-development process, including:
+> Plain-Java distributed transport system focused on retries, graceful degradation, messaging, service failure and alert debouncing.
 
-- 🐍 Python Development
-- ⚙️ Backend Development
-- 🌐 Full-Stack Applications
-- 📊 Data Engineering
-- 🔗 Systems Integration
-- 🗄️ Databases
-- ☁️ Cloud Technologies
-- 🧪 Software Testing
-- 🏗️ Software Architecture
-- 📡 Distributed Systems
-- 🤖 AI-enabled applications
-
-I enjoy understanding the complete development lifecycle:
-
-**Problem → Design → Code → Test → Integrate → Deploy → Maintain**
+`Java` `HTTP` `Pub/Sub` `Fault Tolerance` `Maven`
 
 ---
 
-# 🌍 Connect With Me
+## What I'm Focused On
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zinhle%20Hlongwane-blue?logo=linkedin)](https://www.linkedin.com/in/zinhle-hlongwane-872354209/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-ZinhleHlongwane-black?logo=github)](https://github.com/ZinhleHlongwane)
+- building stronger backend and distributed systems
+- data engineering and streaming pipelines
+- AI-assisted product experiences
+- cloud infrastructure and deployment
+- CI/CD and automated testing
+- building projects that are easy to demo, explain and improve
 
 ---
 
-> *Building software, solving problems, and learning something new with every project.* 🚀
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZinhleHlongwane&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZinhleHlongwane&layout=compact&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ZinhleHlongwane&hide_border=true" />
+</p>
+
+---
+
+## Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/zinhle-hlongwane-872354209">
+    <img src="https://img.shields.io/badge/LinkedIn-Zinhle%20Hlongwane-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/ZinhleHlongwane">
+    <img src="https://img.shields.io/badge/GitHub-ZinhleHlongwane-181717?logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Simple for the user. Thoughtful underneath.</b>
+</p>
