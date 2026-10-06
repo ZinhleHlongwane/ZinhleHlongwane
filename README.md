@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Zinhle+Hlongwane+%F0%9F%91%8B%F0%9F%8F%BD;Junior+Software+Engineer;Backend+Developer;Full-Stack+Developer;Build+it.+Break+it.+Build+it+better.)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ZinhleHlongwane&label=PROFILE%20VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/ZinhleHlongwane?label=FOLLOWERS&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/ZinhleHlongwane?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat)
-
 </div>
 
 ---
