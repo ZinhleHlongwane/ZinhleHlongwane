@@ -2,7 +2,7 @@
 
 # Hey, I'm Zinhle Hlongwane 👋🏽
 
-### Junior Software Engineer · Backend · Data · Full-Stack
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=720&lines=Junior+Software+Engineer;Building+backend+systems;Exploring+data+engineering;Creating+AI-powered+products;Simple+for+the+user.+Thoughtful+underneath.)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ZinhleHlongwane&label=PROFILE%20VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/ZinhleHlongwane?label=FOLLOWERS&style=flat)
