@@ -151,19 +151,6 @@ I enjoy building practical software that goes beyond the happy path, systems tha
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZinhleHlongwane&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZinhleHlongwane&layout=compact&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ZinhleHlongwane&hide_border=true" />
-</p>
-
----
-
 ## Connect
 
 <p>
