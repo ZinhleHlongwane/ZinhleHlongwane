@@ -34,7 +34,7 @@ class Zinhle:
     philosophy = "Simple for the user. Thoughtful underneath."
 ```
 
-I enjoy building practical software that goes beyond the happy path — systems that handle real data, real users, failure, integration and the messy parts that come with making software useful.
+I enjoy building practical software that goes beyond the happy path, systems that handle real data, real users, failure, integration and the messy parts that come with making software useful.
 
 ---
 
