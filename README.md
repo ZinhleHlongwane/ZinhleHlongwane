@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hey, I'm Zinhle Hlongwane 👋🏽
+# Hi, I'm Zinhle Hlongwane 👋🏽
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=720&lines=Junior+Software+Engineer;Building+backend+systems;Exploring+data+engineering;Creating+AI-powered+products;Simple+for+the+user.+Thoughtful+underneath.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Backend+Developer;Data+Engineering+Enthusiast;Full-Stack+Developer)](https://git.io/typing-svg)
+
+### Build it. Break it. Build it better.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ZinhleHlongwane&label=PROFILE%20VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/ZinhleHlongwane?label=FOLLOWERS&style=flat)
@@ -180,10 +182,4 @@ I enjoy building practical software that goes beyond the happy path — systems 
   <a href="https://github.com/ZinhleHlongwane">
     <img src="https://img.shields.io/badge/GitHub-ZinhleHlongwane-181717?logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <b>Simple for the user. Thoughtful underneath.</b>
 </p>
