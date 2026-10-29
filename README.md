@@ -27,7 +27,7 @@ class Zinhle:
         "full-stack development"
     ]
 
-    philosophy = "Simple for the user. Thoughtful underneath."
+    philosophy = "Build it. Break it. Build it Better."
 ```
 
 I enjoy building practical software that goes beyond the happy path, systems that handle real data, real users, failure, integration and the messy parts that come with making software useful.
