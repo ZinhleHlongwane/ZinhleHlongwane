@@ -15,8 +15,8 @@ class Zinhle:
     building = [
         "Cloud Fleet",
         "Affirmation Intelligence Platform",
-        "Umdeni Health",
-        "ShelfLife"
+        "Fleet Command",
+        "Umdeni Health"
     ]
 
     interested_in = [
@@ -126,9 +126,9 @@ I enjoy building practical software that goes beyond the happy path, systems tha
 
 ### 🛰️ [Fleet Command](https://github.com/ZinhleHlongwane/fleet-command)
 
-> Full-stack drone fleet manager built with PostgreSQL, Express, React and Node, with JWT authentication and mission tracking.
+> Full-stack drone fleet management application built with PostgreSQL, Express and React. Features JWT authentication, drone and mission management, a tactical fleet map, and individual drone telemetry tracking.
 
-`PostgreSQL` `Express` `React` `Node.js` `JWT`
+`PostgreSQL` `Express` `React` `Node.js` `TypeScript` `JWT` `Vite`
 
 ---
 
